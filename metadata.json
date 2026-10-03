@@ -1,0 +1,6 @@
+{
+  "name": "UniTransit - College Bus Seat & ID Scanner System",
+  "description": "Smart college bus seat allocation, live occupancy tracking, student ID card verification, and intelligent route and alternative bus recommender.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
